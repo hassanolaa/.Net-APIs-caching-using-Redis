@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FE559-C48F-4FF1-98F3-8E3E3AFA5028}|testRedis\\testRedis.csproj|c:\\users\\rabbit\\source\\repos\\testredis\\testredis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FE559-C48F-4FF1-98F3-8E3E3AFA5028}|testRedis\\testRedis.csproj|solutionrelative:testredis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FE559-C48F-4FF1-98F3-8E3E3AFA5028}|testRedis\\testRedis.csproj|c:\\users\\rabbit\\source\\repos\\testredis\\testredis\\services\\servicerepos\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FE559-C48F-4FF1-98F3-8E3E3AFA5028}|testRedis\\testRedis.csproj|solutionrelative:testredis\\services\\servicerepos\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FE559-C48F-4FF1-98F3-8E3E3AFA5028}|testRedis\\testRedis.csproj|c:\\users\\rabbit\\source\\repos\\testredis\\testredis\\services\\servicerepos\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FE559-C48F-4FF1-98F3-8E3E3AFA5028}|testRedis\\testRedis.csproj|solutionrelative:testredis\\services\\servicerepos\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FE559-C48F-4FF1-98F3-8E3E3AFA5028}|testRedis\\testRedis.csproj|c:\\users\\rabbit\\source\\repos\\testredis\\testredis\\controllers\\catgeoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FE559-C48F-4FF1-98F3-8E3E3AFA5028}|testRedis\\testRedis.csproj|solutionrelative:testredis\\controllers\\catgeoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\testRedis\\Services\\ServiceRepos\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "testRedis\\Services\\ServiceRepos\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\testRedis\\Services\\ServiceRepos\\RedisCacheService.cs",
+              "RelativeToolTip": "testRedis\\Services\\ServiceRepos\\RedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:21:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\testRedis\\Services\\ServiceRepos\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "testRedis\\Services\\ServiceRepos\\CategoryServices.cs",
+              "ToolTip": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\testRedis\\Services\\ServiceRepos\\CategoryServices.cs",
+              "RelativeToolTip": "testRedis\\Services\\ServiceRepos\\CategoryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:48:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatgeoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\testRedis\\Controllers\\CatgeoriesController.cs",
+              "RelativeDocumentMoniker": "testRedis\\Controllers\\CatgeoriesController.cs",
+              "ToolTip": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\testRedis\\Controllers\\CatgeoriesController.cs",
+              "RelativeToolTip": "testRedis\\Controllers\\CatgeoriesController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA4wCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:26:08.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\testRedis\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "testRedis\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Rabbit\\source\\repos\\testRedis\\testRedis\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "testRedis\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwDcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:13:28.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
